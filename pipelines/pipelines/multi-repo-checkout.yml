@@ -18,7 +18,7 @@ resources:
     - repository: githubrepo
       type: github
       endpoint: geralexgr-ADO Intro
-      name: geralexgr/ado-course
+      name: tppalani/azure-master
       ref: main
 
 steps:
